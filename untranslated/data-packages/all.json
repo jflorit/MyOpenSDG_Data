@@ -1296,10 +1296,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Serie A",
+                "Serie D",
                 "Serie B",
                 "Serie C",
-                "Serie D",
                 ""
               ]
             }
